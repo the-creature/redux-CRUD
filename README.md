@@ -1,12 +1,20 @@
 # Table of Contents
 1. [Getting started](#getting-started)
+
 1.1. [Install](#install)
+
 1.2. [Create a simple resource](#create-a-simple-resource)
+
 1.3. [Create a resource with a config](#create-a-resource-with-a-config)
+
 2. [Resource Configuration](#resource-configuration)
+
 2.1. [Resource options](#resource-options)
+
 2.2. [Method options](#method-options)
+
 2.3. [Add a custom method](#add-a-custom-method)
+
 3. [Advanced](#advanced)
 
 # Getting started
@@ -308,7 +316,9 @@ Whenever you run a method the crud library works as follows:
 
 # Todos
 [ ] Cover reducers
+
 [ ] Cover batch actions
+
 [ ] Add more examples
 
 
